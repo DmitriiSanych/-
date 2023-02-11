@@ -1,0 +1,15 @@
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\bin\Debug\net6.0\Task 5.exe
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\bin\Debug\net6.0\Task 5.deps.json
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\bin\Debug\net6.0\Task 5.runtimeconfig.json
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\bin\Debug\net6.0\Task 5.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\bin\Debug\net6.0\Task 5.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.csproj.AssemblyReference.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.AssemblyInfoInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.AssemblyInfo.cs
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.csproj.CoreCompileInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\refint\Task 5.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\Task 5.genruntimeconfig.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 5\obj\Debug\net6.0\ref\Task 5.dll

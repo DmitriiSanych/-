@@ -1,0 +1,45 @@
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.csproj.AssemblyReference.cache
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.AssemblyInfoInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.AssemblyInfo.cs
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.csproj.CoreCompileInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\bin\Debug\net6.0\Задачи из семинара.exe
+D:\Документы\GeeKBrains\Задачи из семинара\bin\Debug\net6.0\Задачи из семинара.deps.json
+D:\Документы\GeeKBrains\Задачи из семинара\bin\Debug\net6.0\Задачи из семинара.runtimeconfig.json
+D:\Документы\GeeKBrains\Задачи из семинара\bin\Debug\net6.0\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\bin\Debug\net6.0\Задачи из семинара.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\refint\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\Задачи из семинара.genruntimeconfig.cache
+D:\Документы\GeeKBrains\Задачи из семинара\obj\Debug\net6.0\ref\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\bin\Debug\net6.0\Задачи из семинара.exe
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\bin\Debug\net6.0\Задачи из семинара.deps.json
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\bin\Debug\net6.0\Задачи из семинара.runtimeconfig.json
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\bin\Debug\net6.0\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\bin\Debug\net6.0\Задачи из семинара.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.csproj.AssemblyReference.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.AssemblyInfoInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.AssemblyInfo.cs
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.csproj.CoreCompileInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\refint\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\Задачи из семинара.genruntimeconfig.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\obj\Debug\net6.0\ref\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\bin\Debug\net6.0\Задачи из семинара.exe
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\bin\Debug\net6.0\Задачи из семинара.deps.json
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\bin\Debug\net6.0\Задачи из семинара.runtimeconfig.json
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\bin\Debug\net6.0\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\bin\Debug\net6.0\Задачи из семинара.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.csproj.AssemblyReference.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.AssemblyInfoInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.AssemblyInfo.cs
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.csproj.CoreCompileInputs.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\refint\Задачи из семинара.dll
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.pdb
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\Задачи из семинара.genruntimeconfig.cache
+D:\Документы\GeeKBrains\Задачи из семинара\Lesson1\Task 1\obj\Debug\net6.0\ref\Задачи из семинара.dll
